@@ -21,16 +21,19 @@ I wanted a simple PDF reader for my TTRPG manuals. They all sucked, so I sort of
 - Table of contents navigation with browser-style back/forward
 - Last reading position restored on re-open (hopefully)
 - Minimal permissions; only file access
+- Simple text search which somewhat does the job
+- Low res mode for faster loading and lower memory usage
 - No ads, no tracking, no internet required
 
 
 ## Screenshots
 
-A couple of screenshots from Android emulator, just to show you how utterly boring is this reader.
+A few screenshots from Android emulator, just to show you how utterly boring is this reader.
 
 <p align="center">
-  <img src="screenshots/sushiview_home.png" width="300" alt="Home screen with recent files">
-  <img src="screenshots/sushiview_reading.png" width="300" alt="PDF reading view">
+  <img src="screenshots/sushiview_home.png" width="200" alt="Home screen with recent files">
+  <img src="screenshots/sushiview_about.png" width="200" alt="Home screen with recent files">
+  <img src="screenshots/sushiview_reading.png" width="200" alt="PDF reading view">
 </p>
 
 
